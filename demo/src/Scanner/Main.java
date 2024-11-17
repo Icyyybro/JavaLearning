@@ -1,4 +1,4 @@
-package cout;
+package Scanner;
 
 import java.util.Scanner;
 
